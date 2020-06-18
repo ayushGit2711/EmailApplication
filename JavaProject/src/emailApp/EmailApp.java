@@ -1,4 +1,4 @@
-package emailApp;
+//package emailApp;
 import java.util.*;
 public class EmailApp {
 

@@ -1,6 +1,6 @@
-package emailApp;
+//package emailApp;
 
-import java.util.Scanner;
+import java.util.*;
 
 public class Email {
 	// initialising all the required variables.
